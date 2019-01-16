@@ -1,0 +1,6 @@
+The application is web-based interface that visualises existing data of Airtable using gantt chart view and might be accessible through 
+calendar view as well. To be able to pull existing data to interface, we should utilise Airtable API. The application should allow user to 
+zoom in and out to each day, month, year views and timeline should be infinite. The application should allow colour coded booking status 
+selection (booked, confirmed, pending,…). Client would prefer if we use iCal API for interface. The application should allow a dynamic 
+calendar that we will embed on client’s website to allow users to see available time slots. The application must allow you to select what 
+information is available to website users.
